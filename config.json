@@ -1,10 +1,10 @@
 {
-	"ip":"ola6419.aternos.me",
-	"port": 35596,
-	"version": "1.26.13.1",
-	"name": "CGA_AI",
-	"auto-night-skip":"false",
-	"login-enabled":"true",
-	"register-cmd":"/register CGA_AI CGA_AI",
-	"login-cmd":"/login CGA_AI CGA_AI"
+  "ip": "ola6419.aternos.me",
+  "port": 35596,
+  "version": "26.1.2",
+  "name": "CGA_AI",
+  "auto-night-skip": "false",
+  "login-enabled": "true",
+  "register-cmd": "/register CGA_AI CGA_AI",
+  "login-cmd": "/login CGA_AI CGA_AI"
 }
