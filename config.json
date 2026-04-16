@@ -1,6 +1,7 @@
 {
 	"ip":"ola6419.aternos.me",
 	"port": 35596,
+	"version": "1.26.13.1",
 	"name": "CGA_AI",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
